@@ -12,6 +12,17 @@
   <p align="center">
     Informe de actividades realizadas en el primer año de vinculación a la Escuela de Ciencias Aplicadas e Ingeniería de la Universidad EAFIT  <br />
     Juan David Martínez Vargas
-
   </p>
 </div>
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Tabla de contenidos</summary>
+  <ol>
+    <li><a href="#Docencia">Docencia</a></li>
+    <li><a href="#Investigacion">Investigación</a></li>
+    <li><a href="#Servicio">Servicio</a></li>
+    <li><a href="#Resumen">Resumen de actividades</a></li>
+  </ol>
+</details>
