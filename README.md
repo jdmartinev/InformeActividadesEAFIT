@@ -10,11 +10,8 @@
   <h3 align="center">Informe de actividades</h3>
 
   <p align="center">
-    Informe de actividades realizadas en el primer año de vinculación a la Escuela de Ciencias Aplicadas e Ingeniería de la Universidad EAFIT  \ \
+    Informe de actividades realizadas en el primer año de vinculación a la Escuela de Ciencias Aplicadas e Ingeniería de la Universidad EAFIT  \newline
     Juan David Martínez Vargas
-    
-    <br />
-    <a href=IMDBAnalyticsProject><strong>Proyecto base </strong></a>
-    <br />
+
   </p>
 </div>
