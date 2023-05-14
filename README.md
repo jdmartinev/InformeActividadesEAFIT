@@ -20,6 +20,7 @@
 <details>
   <summary>Tabla de contenidos</summary>
   <ol>
+    <li><a href="#Introducción">Docencia</a></li>
     <li><a href="#Docencia">Docencia</a></li>
     <li><a href="#Investigacion">Investigación</a></li>
     <li><a href="#Servicio">Servicio</a></li>
@@ -28,10 +29,3 @@
 </details>
 
 
-| Header 1  | Another header here | This is a long header |
-
-| --- | --- | --- |
-
-| Some data | Some more data | data | 
-
-| data | Some long data here | more data | 
