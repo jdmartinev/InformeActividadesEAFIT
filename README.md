@@ -136,6 +136,12 @@ Convocatoria: 031-2022 CONVOCATORIA DE SGR - AMBIENTE -FORTALECIMIENTO DE CENTRO
 Estado: En lista de financiables
 Entidades participantes: UNAL Manizales, UTP, U de Caldas, EAFIT, Corpocaldas, BIOS
 
+Participo como co-investigador ad-honorem del siguiente proyecto:
+
+Título: Conservación biológica usando Inteligencia Artificial
+Convocatoria: 852 de Minciencias
+Estado: Tercer año de ejecución
+
 ### Estudiantes
 
 Por el proyecto EpiPlannerAI, dirijo la siguiente tesis de la Maestría en Matemáticas Aplicadas:
@@ -143,6 +149,31 @@ Por el proyecto EpiPlannerAI, dirijo la siguiente tesis de la Maestría en Matem
 Estudiante: Pablo Alberto Osorio Marulanda <br>
 Co-director: Lina María Sepúlveda <br>
 Estado: En proceso de construcción de la propuesta
+
+Por el proyecto de conservación biológica, dirijo las siguientes tesis de doctorado:
+
+Título: Heterogeneidad acústica basada en grafos y paisajes sonoros de bosques
+tropicales para monitoreo ecológico <br>
+Estudiante: Andrés Eduardo Castro Ospina <br>
+Institución: Instituto Tecnológico Metropolitano - ITM <br>
+Estado: Propuesta aprobada <br>
+
+Título: Metodología para el análisis de patrones acústicos relacionados con la conectividad de paisajes colombianos empleando aprendizaje no supervisado <br>
+Estudiante: Daniel Alexis Nieto Mora <br>
+Institución: Instituto Tecnológico Metropolitano - ITM <br>
+Estado: Propuesta aprobada <br>
+
+Adicionalmente, co-dirijo las siguientes tesis de doctorado:
+
+Título: Distributed Identification, State Estimation and Control of Large Scale Systems <br>
+Estudiante: Cristhian Daniel Molina Machado <br>
+Institución: Universidad Tecnológica de Pereira - UTP <br>
+Estado: Enviada para evaluación
+
+Título: Tropical dry forest land use/land cover change detection using semi-supervised deep learning algorithms and remote sensing <br>
+Estudiante: Juan Carlos González Vélez <br>
+Institución: Instituto Tecnológico Metropolitano - ITM <br>
+Estado: Propuesta aprobada <br>
 
 ### Semilleros
 
