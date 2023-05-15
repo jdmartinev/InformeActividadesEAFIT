@@ -81,8 +81,10 @@ Estado: En proceso
 En el primer año de vinculación, participé en la escritura de los siguientes artículos. 
 
 Rivera-Muñoz, L. M., Giraldo-Forero, A. F., & Martinez-Vargas, J. D. (2022). Deep matrix factorization models for estimation of missing data in a low-cost sensor network to measure air quality. Ecological Informatics, 71, 101775.  <br>
-Estado: Publicado
-doi: [https://doi.org/10.1016/j.ecoinf.2022.101775](https://doi.org/10.1016/j.ecoinf.2022.101775)
+Estado: Publicado <br>
+doi: [https://doi.org/10.1016/j.ecoinf.2022.101775](https://doi.org/10.1016/j.ecoinf.2022.101775) <br>
+SJR: Q1
+
 
 
 ### Proyectos
