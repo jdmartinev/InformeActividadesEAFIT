@@ -48,10 +48,20 @@ En posgrado orienté el siguiente curso
 
 ### Docencia indirecta
 
-Dirigí los siguientes trabajos de grado de la Maestría en Ciencias de los Datos y Analítica:
+Actualmente, dirijo o co-dirijo los siguientes trabajos de grado de la Maestría en Ciencias de los Datos y Analítica:
 
 Título: Aplicación de técnicas de clusterización para la clasificación de música Dance Electrónica <br>
-Estudiante: Carlos Alberto Murillo Martínez
+Estudiante: Carlos Alberto Murillo Martínez <br>
+Co-director: Marco Alunno
 Estado: Enviada para evaluación
+
+Título: Reconocimiento de emociones a partir del habla (SER) <br>
+Estudiante: Jeison Erley Giraldo Toro <br>
+Director: Edwin Nelson Montoya Munera
+Estado: A enviar para evaluación
+
+
+
+
 
 
