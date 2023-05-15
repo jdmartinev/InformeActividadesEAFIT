@@ -30,6 +30,8 @@
 
 ## **Docencia**
 
+### Docencia directa
+
 En pregrado orienté los siguientes cursos:
 
 | Curso                       |     Código      |    Período            | Evaluación     |
@@ -43,5 +45,13 @@ En posgrado orienté el siguiente curso
 | Curso                             |     Código      |    Período            | Evaluación     |
 | :----------------:                |     :---:       |     :------:          | ----:          |
 |  Aprendizaje de máquina aplicado  |      ST1613     |    2022-2 <br> 2023-1 | 4.43 <br> 4.95 |
+
+### Docencia indirecta
+
+Dirigí los siguientes trabajos de grado de la Maestría en Ciencias de los Datos y Analítica:
+
+Título: Aplicación de técnicas de clusterización para la clasificación de música Dance Electrónica <br>
+Estudiante: Carlos Alberto Murillo Martínez
+Estado: Enviada para evaluación
 
 
