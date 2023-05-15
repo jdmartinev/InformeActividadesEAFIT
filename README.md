@@ -30,11 +30,10 @@
 
 ## **Docencia**
 
-Orienté los siguientes cursos:
+En pregrado, orienté los siguientes cursos:
 
-| Curso               | Período | Evaluación |
-| :----------------:  | :------: | ----: |
-| Electrónica digital |   2022-2 <br> 2023-1| 4 <br> 4 |
-| SQL Hat           |   True   | 23.99 |
-| Codecademy Tee    |  False   | 19.99 |
-| Codecademy Hoodie |  False   | 42.99 |
+| Curso                       | Período              | Evaluación  |
+| :----------------:          | :------:             | ----:       |
+| Electrónica digital         |   2022-2 <br> 2023-1 | 4.51 <br> 4 |
+| Proyecto integrador         |   2022-2 <br> 2023-1 | 4.42 <br> 4 |
+| Pensamiento computacional   |   2022-2 <br> 2023-1 | 4.79 <br>   |
