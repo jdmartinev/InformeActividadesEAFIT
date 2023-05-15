@@ -32,14 +32,16 @@
 
 En pregrado orienté los siguientes cursos:
 
-| Curso                       | Período              | Evaluación     |
-| :----------------:          | :------:             | ----:          |
-| Electrónica digital         |   2022-2 <br> 2023-1 | 4.51 <br> 4.64 |
-| Proyecto integrador         |   2022-2 <br> 2023-1 | 4.42 <br> 4.58 |
-| Pensamiento computacional   |   2022-2 <br> 2023-1 | 4.79 <br> 4.65 |
+| Curso                       |     Código      |    Período            | Evaluación     |
+| :----------------:          |     :---:       |     :------:          | ----:          |
+| Electrónica digital         |      ST0248     |    2022-2 <br> 2023-1 | 4.51 <br> 4.64 |
+| Proyecto integrador         |      ST0251     |    2022-2 <br> 2023-1 | 4.42 <br> 4.58 |
+| Pensamiento computacional   |      ST0367     |    2022-2 <br> 2023-1 | 4.79 <br> 4.65 |
 
 En posgrado orienté el siguiente curso
 
-| Curso                           | Período              | Evaluación     |
-| :----------------:              | :------:             | ----:          |
-| Aprendizaje de máquina aplicado |   2022-2 <br> 2023-1 | 4.43 <br> 4.95 |
+| Curso                             |     Código      |    Período            | Evaluación     |
+| :----------------:                |     :---:       |     :------:          | ----:          |
+|  Aprendizaje de máquina aplicado  |      ST1613     |    2022-2 <br> 2023-1 | 4.51 <br> 4.64 |
+
+
