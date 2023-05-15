@@ -42,6 +42,6 @@ En posgrado orienté el siguiente curso
 
 | Curso                             |     Código      |    Período            | Evaluación     |
 | :----------------:                |     :---:       |     :------:          | ----:          |
-|  Aprendizaje de máquina aplicado  |      ST1613     |    2022-2 <br> 2023-1 | 4.51 <br> 4.64 |
+|  Aprendizaje de máquina aplicado  |      ST1613     |    2022-2 <br> 2023-1 | 4.43 <br> 4.95 |
 
 
