@@ -144,10 +144,9 @@ Estudiante: Pablo Alberto Osorio Marulanda <br>
 Co-director: Lina María Sepúlveda <br>
 Estado: En proceso de construcción de la propuesta
 
-
-
-
 ### Semilleros
+
+Actualmente, dirijo el Semillero en Machine Learning que cuenta con más de 10 estudiantes de Ingeniería de Sistemas, Ingenieria Matemática, Administración, entre otras.
 
 
 
