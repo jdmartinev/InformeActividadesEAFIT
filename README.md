@@ -55,6 +55,10 @@ Estudiante: Carlos Alberto Murillo Martínez <br>
 Co-director: Marco Alunno
 Estado: Enviada para evaluación
 
+Título: Development of a machine learning-based methodology for an automatic control model in a Kaolin washing process <br>
+Estudiante: Óscar Contreras <br>
+Estado: A enviar para evaluación
+
 Título: Reconocimiento de emociones a partir del habla (SER) <br>
 Estudiante: Jeison Erley Giraldo Toro <br>
 Director: Edwin Nelson Montoya Munera
@@ -118,6 +122,15 @@ SJR: Q3 <br>
 Estado: Esperando respuesta de los evaluadores
 
 ### Proyectos
+
+Participé en la formulación de los siguientes proyectos:
+
+Título: EpiPlannerAI: Sistema de soporte para la planeación de cirugía de epilepsia basado en análisis multimodal de técnicas de neuroimagen utilizando algoritmos de inteligencia artificial <br>
+Convocatoria: Convocatoria Proyectos Internos de Investigación EAFIT 2022 <br>
+Estado: Aprobado para ejecución (en curso) <br>
+Investigadores: Juan Alejandro Peña, Lina María Sepúlveda, Juan David Martínez
+
+Título: 
 
 ### Estudiantes
 
