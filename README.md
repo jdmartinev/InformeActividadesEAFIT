@@ -22,7 +22,7 @@
   <ol>
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="#Docencia">Docencia</a></li>
-    <li><a href="#Investigacion">Investigación</a></li>
+    <li><a href="#Investigación">Investigación</a></li>
     <li><a href="#Servicio">Servicio</a></li>
     <li><a href="#Resumen">Resumen de actividades</a></li>
   </ol>
@@ -74,7 +74,7 @@ Estudiante: Daniel Alonso Sánchez Echeverri
 Co-director: Édison Valencia Díaz
 Estado: En proceso
 
-## ** Investigación **
+## **Investigación**
 
 ### Artículos 
 
