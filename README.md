@@ -21,7 +21,8 @@
   <summary>Tabla de contenidos</summary>
   <ol>
     <li><a href="#Introducción">Introducción</a></li>
-    <li><a href="#Docencia.md">Docencia</a></li>
+    <li><a href="#Docencia">Docencia</a></li>
+    <li><a href="Docencia.md">Docencia</a></li>
     <li><a href="#Investigación">Investigación</a></li>
     <li><a href="#Servicio">Servicio</a></li>
     <li><a href="#Resumen">Resumen de actividades</a></li>
