@@ -130,9 +130,22 @@ Convocatoria: Convocatoria Proyectos Internos de Investigación EAFIT 2022 <br>
 Estado: Aprobado para ejecución (en curso) <br>
 Investigadores: Juan Alejandro Peña, Lina María Sepúlveda, Juan David Martínez
 
-Título: 
+Título: Fortalecimiento del desarrollo científico para la conservación y el uso sostenible de la biodiversidad y los servicios ecosistémicos en la 
+cuenca media del río Cauca en la región eje cafetero. <br>
+Convocatoria: 031-2022 CONVOCATORIA DE SGR - AMBIENTE -FORTALECIMIENTO DE CENTROS DE INVESTIGACIÓN- MEC 1
+Estado: En lista de financiables
+Entidades participantes: UNAL Manizales, UTP, U de Caldas, EAFIT, Corpocaldas, BIOS
 
 ### Estudiantes
+
+Por el proyecto EpiPlannerAI, dirijo la siguiente tesis de la Maestría en Matemáticas Aplicadas:
+
+Estudiante: Pablo Alberto Osorio Marulanda 
+Co-director: Lina María Sepúlveda
+Estado: En proceso de construcción de la propuesta
+
+
+
 
 ### Semilleros
 
