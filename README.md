@@ -17,12 +17,14 @@
 
 
 <!-- TABLE OF CONTENTS -->
-<details>
+<details open>
   <summary>Tabla de contenidos</summary>
+  <p>  
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="Docencia.md">Docencia</a></li>
     <li><a href="Investigación.md">Investigación</a></li>
     <li><a href="#Servicio">Servicio</a></li>
+  </p>
 </details>
 
 
