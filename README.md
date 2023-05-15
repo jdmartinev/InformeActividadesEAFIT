@@ -19,12 +19,10 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Tabla de contenidos</summary>
-  <ol>
     <li><a href="#Introducción">Introducción</a></li>
     <li><a href="Docencia.md">Docencia</a></li>
     <li><a href="Investigación.md">Investigación</a></li>
     <li><a href="#Servicio">Servicio</a></li>
-  </ol>
 </details>
 
 
