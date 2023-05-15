@@ -85,7 +85,7 @@ Estado: Publicado <br>
 doi: [https://doi.org/10.1016/j.ecoinf.2022.101775](https://doi.org/10.1016/j.ecoinf.2022.101775) <br>
 SJR: Q1
 
-Título: Identification of tropical dry forest transformation from soundscapes usingsupervised learning
+Título: Identification of tropical dry forest transformation from soundscapes usingsupervised learning <br>
 Autores: Andres E. Castro-Ospina, Susana Rodríguez-Buriticá, Nestor Rendon, Maria C. Velandia-García, Claudia Isaza, and Juan D. Martínez-Vargas <br>
 Conferencia: Smartech-IC 2022 <br>
 Memorias: Communications in Computer and Information Science <br>
