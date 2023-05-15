@@ -60,6 +60,21 @@ Estudiante: Jeison Erley Giraldo Toro <br>
 Director: Edwin Nelson Montoya Munera
 Estado: A enviar para evaluación
 
+Título: Hurto a personas en la ciudad de Medellín: Análisis predictivo de la cantidad de casos en diferentes zonas de la ciudad a partir de modelos de machine learning implementando técnicas de MLOps <br>
+Estudiante: Jeferson Stiven Arboleda Colorado <br>
+Estado: A enviar para evaluación
+
+Título: Índice de riesgo de malnutrición en niños de 0 a 5 años basado en factores sociales y demográficos en la ciudad de Medellín
+Estudiante: Santiago Bedoya Ríos
+Co-directora: Lina María Sepúlveda Cano
+Estado: A enviar para evaluación
+
+Título: Identificación de anomalías en el aislamiento de líneas de transmisión a partir de imágenes
+Estudiante: Daniel Alonso Sánchez Echeverri
+Co-director: Édison Valencia Díaz
+Estado: En proceso
+
+
 
 
 
