@@ -74,7 +74,7 @@ Estudiante: Daniel Alonso Sánchez Echeverri
 Co-director: Édison Valencia Díaz
 Estado: En proceso
 
-## **Investigación**
+## ** Investigación **
 
 ### Artículos 
 
@@ -110,7 +110,6 @@ Autores: D.A Nieto-Mora, Susana Rodríguez-Buritica, Paula Rodríguez-Marín, J.
 Revista: HELITON <br>
 SJR: Q1 <br> 
 Estado: Preparando respuestas de los evaluadores
-
 
 Título: Large-Scale Dynamic State Estimation and Control based on a Regularized Deep Neural Networks <br> 
 Autores: C.D. Molina-Machado, J.D. Martinez-Vargas and Eduardo Giraldo <br> 
