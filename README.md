@@ -91,8 +91,32 @@ Conferencia: Smartech-IC 2022 <br>
 Memorias: Communications in Computer and Information Science <br>
 SJR: Q4
 
+Título: Classification of Epileptic Seizures Based On CNN And Guided Back-Propagation For Interpretation Analysis <br>
+Autores: Yomin Jaramillo-Múnera, Lina M. Sepulveda Cano, Andres Eduardo Castro Ospina, Juan David Martinez Vargas and Leonardo Duque-Muñoz <br>
+Conferencia: Smartech-IC 2022 <br>
+Memorias: Communications in Computer and Information Science <br>
+SJR: Q4
+
+Adicionalmente, estoy a la espera de respuesta por parte de las revistas con respecto a los siguientes artículos:
+
+Título: Characterizing social and cognitive EEG-ERP through multiple kernel learning <br>
+Autores: Daniel Nieto, Stella Valencia, Natalia Trujillo, Jose David López and Juan David Martínez <br>
+Revista: HELIYON <br>
+SJR: Q1 <br>
+Estado: Correcciones enviadas
+
+Título: Systematic review of machine learning methods applied to ecoacoustics and soundscape monitoring <br> 
+Autores: D.A Nieto-Mora, Susana Rodríguez-Buritica, Paula Rodríguez-Marín, J.D Martínez-Vargaz, Claudia Isaza-Narváez <br> 
+Revista: HELITON <br>
+SJR: Q1 <br> 
+Estado: Preparando respuestas de los evaluadores
 
 
+Título: Large-Scale Dynamic State Estimation and Control based on a Regularized Deep Neural Networks <br> 
+Autores: C.D. Molina-Machado, J.D. Martinez-Vargas and Eduardo Giraldo <br> 
+Revista: International Journal of Electrical and Computer Engineering (IJECE) <br> 
+SJR: Q3 <br> 
+Estado: Esperando respuesta de los evaluadores
 
 ### Proyectos
 
