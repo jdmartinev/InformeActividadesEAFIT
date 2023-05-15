@@ -140,8 +140,8 @@ Entidades participantes: UNAL Manizales, UTP, U de Caldas, EAFIT, Corpocaldas, B
 
 Por el proyecto EpiPlannerAI, dirijo la siguiente tesis de la Maestría en Matemáticas Aplicadas:
 
-Estudiante: Pablo Alberto Osorio Marulanda 
-Co-director: Lina María Sepúlveda
+Estudiante: Pablo Alberto Osorio Marulanda <br>
+Co-director: Lina María Sepúlveda <br>
 Estado: En proceso de construcción de la propuesta
 
 
