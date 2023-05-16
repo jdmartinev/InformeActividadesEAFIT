@@ -14,19 +14,3 @@
     Juan David Martínez Vargas
   </p>
 </div>
-
-
-<div class="sidebar">
-  <!-- Include the content of the sidebar.md file -->
-  {% include sidebar.md %}
-</div>
-
-
-
-
-
-
-
-
-
-
