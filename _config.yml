@@ -5,14 +5,14 @@ logo: Figs/Logo_EAFIT.svg.png
 
 # Enter the following platform usernames if you would like for them to appear on your site.
 owner:
-  name: Ted Laderas
+  name: Juan David Martínez Vargas
   avatar: bio-photo.jpg
-  bio: "This is a sample Jekyll academic website."
-  email: laderast@ohsu.edu
+  bio: "Escuela de Ciencias Aplicadas e Ingeniería"
+  email: jdmartinev@eafit.edu.co
   # Do not include the @ symbol in your Twitter username
-  twitter: laderast
-  linkedin: #username
-  github: laderast
+  #twitter: laderast
+  #linkedin: #username
+  github: jdmartinev
   orcid: # ID Number (ex. 0000-0000-0000-0000)
   researchgate: #username
   mendeley: #username
