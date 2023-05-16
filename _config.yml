@@ -1,5 +1,7 @@
 remote_theme: zendesk/jekyll-theme-zendesk-garden@main
 
+title: Informe de actividades
+
 sidebar:
   - getting-started
 
