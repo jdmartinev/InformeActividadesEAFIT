@@ -4,9 +4,9 @@ markdown: kramdown
 
 sidebar:
   - title: Introducción
-    url: /Introduccion.md
+    url: Introduccion.md
   - title: Docencia
-    url: /Docencia.md
+    url: Docencia.md
   - title: Investigación
-    url: /Investigacion.md
+    url: Investigacion.md
 
