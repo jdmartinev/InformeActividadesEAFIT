@@ -1,3 +1,8 @@
+---
+layout: default
+---
+{% include sidebar.html %}
+
 <a name="readme-top"></a>
 
 <!-- PROJECT LOGO -->
