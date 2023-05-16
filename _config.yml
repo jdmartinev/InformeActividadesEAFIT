@@ -1,0 +1,10 @@
+title: Informe de actividades
+logo: Figs/Logo_EAFIT.svg.png
+description: Actividades primer año de vinculación
+show_downloads: false
+google_analytics:
+theme: jekyll-theme-minimal
+plugins:
+  - jekyll-sitemap
+  - jekyll-seo-tag
+  - jemoji
