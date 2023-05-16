@@ -1,12 +1,24 @@
-title: Informe
-theme: jekyll-theme-cayman
-markdown: kramdown
+# Site wide configuration
 
-sidebar:
-  - title: Introducción
-    url: Introduccion.md
-  - title: Docencia
-    url: Docencia.md
-  - title: Investigación
-    url: Investigacion.md
+title: Informe de actividades
+locale: en_US
+logo: Figs/
 
+# Enter the following platform usernames if you would like for them to appear on your site.
+owner:
+  name: Ted Laderas
+  avatar: bio-photo.jpg
+  bio: "This is a sample Jekyll academic website."
+  email: laderast@ohsu.edu
+  # Do not include the @ symbol in your Twitter username
+  twitter: laderast
+  linkedin: #username
+  github: laderast
+  orcid: # ID Number (ex. 0000-0000-0000-0000)
+  researchgate: #username
+  mendeley: #username
+  google:
+    plus: #username
+    analytics:
+    verify:
+    scholar: #id
