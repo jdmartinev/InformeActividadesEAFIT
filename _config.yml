@@ -1,0 +1,12 @@
+title: Informe
+theme: jekyll-theme-cayman
+markdown: kramdown
+
+sidebar:
+  - title: Introducción
+    url: Introduccion.md
+  - title: Docencia
+    url: Docencia.md
+  - title: Investigación
+    url: Investigacion.md
+
